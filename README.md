@@ -2,7 +2,7 @@
     <img src='http://imgfz.com/i/b6HPh14.png' </img>
 </p>
 
-# BOWLING SCORE
+# APP NASA VIEW IMAGES
 - En esta simple App, podremos ver imagenes de la tierra el sol y la luna captadas por los robots de la NASA, los criterios de busquedas de imagenes son, por boots o fecha
 
 ## Objetivos del Proyecto
