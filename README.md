@@ -16,7 +16,7 @@
 - Utilizar Metodologías Ágiles.
 - Afirmar los conocimientos en Hooks y Redux.
 - Generar Api Rest.
-- LLamadas al Back a travez de axios
+- LLamadas a la API a travez de axios
  
 
 ## Comenzando `CLONAR EL REPO`
