@@ -42,6 +42,8 @@ En la carpeta client hacer npm install y npm start
 
 El contenido de `client` fue creado usando: Create React App.
 
-### cesars.pro@gmail.com
+## cesars.pro@gmail.com
+## Linkedin: https://www.linkedin.com/in/cesar-sanchez-dev/
+## Para ver y descargar mi CV: <a href="https://shorten.world/qxnxs"> Clic Aca ...</a>
 
 
